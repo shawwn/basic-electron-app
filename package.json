@@ -1,0 +1,7 @@
+{
+  "name": "basic-electron-app",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/shawwn/basic-electron-app.git",
+  "license": "MIT"
+}
